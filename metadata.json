@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Amrita Shrestha - Consultant Dermatologist",
+  "description": "Dr. Amrita Shrestha is a Consultant Dermatologist specializing in Dermatology and Venereology. Expert diagnosis and treatment for skin, hair, nail, and sexually transmitted diseases (STIs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
